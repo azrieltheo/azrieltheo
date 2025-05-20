@@ -13,8 +13,6 @@ Hello, I'm Azriel Theo | Frontend Developer.
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azrieltheo&theme=merko)  
-![](https://nirzak-streak-stats.vercel.app/?user=azrieltheo&theme=merko)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azrieltheo&layout=compact&hide_border=true&theme=transparent)
 
 
