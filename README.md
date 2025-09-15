@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Halo, saya Azriel Theo |
-![](https://readme-typing-svg.demolab.com/?lines=Saya+seorang+Frontend+Developer.;Saya+sedang+belajar+React.js,+Laravel+%26+Tailwind+CSS.)
+![](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer.)
 
 ---
 
