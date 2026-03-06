@@ -14,9 +14,9 @@
 
 ---
 
-# 📊 GitHub Stats
+ 
 
 
 
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrieltheo&layout=compact&theme=tokyonight&hide_border=true)
+# 📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrieltheo&layout=compact" />
