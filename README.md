@@ -1,21 +1,21 @@
 # 💫 About Me:
-### Halo, saya Azriel Theo |
-![](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer.)
+### Halo, saya Azriel Theo
+![Typing](https://readme-typing-svg.demolab.com?lines=Frontend+Developer)
 
 ---
 
 # 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02.svg?style=plastic&logo=gsap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrieltheo&layout=compact&langs_count=8&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrieltheo&layout=compact&langs_count=8)
 
-![Azriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrieltheo&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azrieltheo&show_icons=true)
