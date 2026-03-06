@@ -14,5 +14,8 @@
 
 ---
 
-# 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azrieltheo&layout=compact&hide_border=true&theme=merko)
+# 📊 GitHub Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrieltheo&layout=compact&langs_count=8&theme=merko)
+
+![Azriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrieltheo&show_icons=true&theme=merko)
